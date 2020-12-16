@@ -1,4 +1,5 @@
 # OptimisMuss 2020
+![2020 - ein optimistischer Jahresrückblick](https://github.com/sanj0/OptimisMuss/blob/main/OptimisMuss2020_white_bg.png)
 
 Ein optimistischer Jahresrückblick von Malte Dostal
 
