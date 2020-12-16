@@ -8,8 +8,7 @@ Der vorliegende Jahresrückblick ist gemäß seines Titels durch die Gläser ein
 Jetzt aber wieder hoch mit der rosaroten Brille und zum letzten Punkt vor dem tatsächlichen Jahresrückblick.
 
 Die Aggregation der folgenden Ereignisse, Nachrichten und Errungenschaften wurde durch die Wikipedia-Artikel der einzelnen Monate, sowie archivierten Versionen des Forums [r/UpliftingNews](https://www.reddit.com/r/UpliftingNews) im Rahmen der [WayBackMachine](https://archive.org/web/) maßgeblich erleichtert. Beide Non-Profit-Organisationen sammeln derzeit wie jedes Jahr spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem, freiem Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
-
-## 
+ 
 
 ## Januar
 
@@ -25,7 +24,6 @@ Quellen und zusätzliche Informationen: [Same-sex marriage now legal in Northern
 **21.01**: Nach Monaten des politischen Stillstandes und anhaltenden Demonstrationen haben gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt eine neue Regierung - gemäß der Forderungen der Demonstranten ohne Ministern aus traditionellen Parteien. Außerdem gibt es jetzt viel mehr Frauen in der Regierung, zum Beispiel Verteidigungsministerin Zeina Akar.
 Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung | DW](https://www.dw.com/de/libanon-hat-eine-neue-regierung/a-52102715)
 
-## 
 
 ## Februar
 
@@ -38,7 +36,6 @@ Quellen und zusätzliche Informationen: [Solar Orbiter | ESA](https://www.esa.in
 In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben werden vollkommen kostenlos. Lediglich die 1. Klasse in Zügen und kommunal betriebene ÖPNV sind noch kostenpflichtig. Das kleine Land westlich neben Deutschland ist damit ein weltweiter Pionier. Dieser Maßgebliche Beitrag zum Klimaschutz kostet den Staat 41 Millionen Euro. Luxemburg sieht sich dahingehend für die anderen europäischen Länder (auch Nachbar- Deutschland) als Vorbild und würde das System gerne nachgeahmt sehen, was in Deutschland wie oben genannt seit Januar zumindest in der Innenstadt von Augsburg der Fall ist. Weil Deutschland so viel größer ist, würde eine vollständige Einführung des Systems allerdings jährliche Kosten von circa 13 Milliarden Euro mit sich ziehen - bisher zu viel für die Regierung, aber das Thema ist hierzulande noch lange nicht vom Tisch.
 Quellen und zusätzliche Informationen: [Luxemburg: Kostenloser ÖPNV ist erst der Anfang | tagesschau.de](https://www.tagesschau.de/ausland/luxemburg-kostenloser-nahverkehr-101.html)
 
-## 
 
 ## März
 
@@ -56,7 +53,6 @@ Quellen und zusätzliche Informationen: [SpaceX, Blue Origin land contracts to b
 Der April hält sich in Sachen Umweltschutz auch nicht lange zurück: in Pakistan ist die Honigproduktion dank des Staatsprojektes "Billion Tree Tsunami" um 70% gestiegen. Das Projekt wurde 2014 gestartet und hat seitdem die versprochene Milliarde an Bäumen gepflanzt. Aber Pakistan ist noch lange nicht fertig: 2018 hat der Premierminister das Projekt "10 Billion Tree Tsunami" gestartet, welches, genau wie der Name verspricht, zehn Milliarden gepflanzte Bäume als Ziel hat.
 Quellen und zusätzliche Informationen: [Pakistan's Honey Production Increases by 70% | propakistani](https://web.archive.org/web/20200422145651/https://propakistani.pk/2020/04/20/pakistans-honey-production-increases-by-70-thanks-to-billion-tree-project/) - [Billion Tree Tsunami | Wikipedia](https://en.wikipedia.org/wiki/Billion_Tree_Tsunami) - [See How The "10 Billion Tree Tsunami"  Campaign Transformed This Area | Bored Panda](https://www.boredpanda.com/ten-billion-tree-tsunami-project-progress/?utm_source=google&utm_medium=organic&utm_campaign=organic)
 
-## 
 
 ## Mai
 
@@ -66,7 +62,6 @@ Quellen und zusätzliche Informationen: [Team Trees | Wikipedia](https://de.wiki
 Am **30.05** gelingt SpaceX ein großer Durchbruch: mit Robert Behnken und Douglas Hurley schießt die Firma unter Elon Musk die ersten Amerikaner seit 2011 in das All, nämlich zur Internationalen Raumstation ISS. Ein großer Schritt der ehemaligen Pionier-Nation in Sachen Raufahrt und sicherlich eine Vorbereitung auf "Artemis", welches bereits im Monat zuvor große Fortschritte machen konnte (siehe oben).
 Quellen und zusätzliche Informationen: [DM-2 | NASA](https://www.nasa.gov/specials/dm2/)
 
-## 
 
 ## Juni
 
