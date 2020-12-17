@@ -3,7 +3,7 @@
 
 Ein optimistischer Jahresrückblick von Malte Dostal
 
-## Vorwort
+## Vorwort [<sub><sup>Überspringen</sup></sub>](#januar)
 
 Der vorliegende Jahresrückblick ist gemäß seines Titels durch die Gläser einer rosaroten Brille recherchiert und geschrieben. Dahingehend werden hier nur positive Ereignisse des Kalenderjahres 2020 (oder [12020](https://de.wikipedia.org/wiki/Holozän-Kalender) ;) aufgeführt. Dieser Umstand soll auf keinen Fall die Opfer der anhaltenden Pandemie schönreden oder diskreditieren, die Omnipräsenz der negativen Themen und Ereignisse dieses Jahres soll nur für den Moment ausgeblendet, aber keinesfalls vergessen werden. Das gleiche gilt auch für die passiven Opfer der Situation und die Beeinträchtigten jedweder anderer katastrophalen Ereignissen dieses Jahres. 
 Jetzt aber wieder hoch mit der rosaroten Brille und zum letzten Punkt vor dem tatsächlichen Jahresrückblick.
