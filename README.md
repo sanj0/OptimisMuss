@@ -12,7 +12,7 @@ Dieser Umstand soll auf keinen Fall die Opfer der anhaltenden Pandemie schönred
 diskreditieren, die Omnipräsenz der negativen Themen und Ereignisse dieses Jahres soll nur 
 für den Moment ausgeblendet, aber keinesfalls vergessen werden. Das gleiche gilt auch für die 
 passiven Opfer der Situation und die Beeinträchtigten jedweder anderer katastrophalen 
-Ereignissen dieses Jahres. 
+Ereignissen dieses Jahres.\
 Jetzt aber wieder hoch mit der rosaroten Brille und zum letzten Punkt vor dem 
 tatsächlichen Jahresrückblick.
 
@@ -33,7 +33,7 @@ in die richtige Richtung an: in Augsburg sind jetzt öffentliche Verkehrsmittel 
 zu fahren, als mit dem eignen Auto, was bekanntermaßen niedrigere Emissionen von 
 Treibhausgasen und anderen für Mensch und Umwelt schädliche Stoffe zur Folge hat. 
 Jetzt kostet das nicht nur nichts mehr, eventuelle Wartezeiten an Ticketautomaten oder -schaltern 
-gibt es jetzt ebenfalls nicht mehr zu befürchten. 
+gibt es jetzt ebenfalls nicht mehr zu befürchten.\
 Quellen und zusätzliche Informationen: 
 [Gratis durch die City-Zone | swa](https://www.sw-augsburg.de/magazin/detail/gratis-durch-die-city-zone/) 
 
@@ -41,15 +41,16 @@ Ein Schritt mit selber Wirkung erfolgt zum Neujahr auch von der Bundesregierung:
 der Fernverkehr der Deutschen Bahn ist ab Sofort mit 7% statt den bisherigen 19% besteuert. 
 Wegen der vollständigen Weitergabe an die Kunden zahlen Fernverkehrfahrer der 
 Deutschen Bahn jetzt circa 10% weniger, was auch hier die Entscheidung, 
-nicht mit dem Auto zu fahren, erleichtert.
-Quellen und zusätzliche Informationen: [Nicht alle Bahn-Tickets sind billiger geworden | BR24](https://www.br.de/nachrichten/deutschland-welt/nicht-alle-bahn-tickets-sind-billiger-geworden,Rmcg1SM)
+nicht mit dem Auto zu fahren, erleichtert.\
+Quellen und zusätzliche Informationen: 
+[Nicht alle Bahn-Tickets sind billiger geworden | BR24](https://www.br.de/nachrichten/deutschland-welt/nicht-alle-bahn-tickets-sind-billiger-geworden,Rmcg1SM)
 
 Ab dem **13.01** gilt die Ehe-Für-Alle im gesamten Vereinigten Königreich: in Nordirland, 
 als letzter großer Teil der Vereinigung, wird die Eheschließung gleichgeschlechtlicher Paare
 legalisiert. In den allermeisten westeuropäischen Ländern sind homosexuelle (und bisexuelle) 
 Menschen jetzt in dieser Hinsicht gleichgestellt und nicht länger benachteiligt. Auch in anderen 
 europäischen Ländern, in denen nur Eingetragene Partnerschaften möglich sind - zum Beispiel 
-in der Schweiz - wird der Druck der Bevölkerung immer größer.
+in der Schweiz - wird der Druck der Bevölkerung immer größer.\
 Quellen und zusätzliche Informationen: 
 [Same-sex marriage now legal in Northern Ireland | bbc](https://www.bbc.com/news/uk-northern-ireland-51086276) 
 - [Gleichgeschlechtliche Ehe – Situation in Europa | Wikipedia ](https://de.wikipedia.org/wiki/Gleichgeschlechtliche_Ehe#Europa)
