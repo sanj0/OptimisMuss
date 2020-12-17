@@ -190,4 +190,4 @@ Freuen wir uns also auf die positiven Ereignisse und Neuigkeiten im nächsten Ja
 In diesem Sinne wünsche ich Ihnen, sehr geehrte(r) Leser(in) eine frohe Weihnachtszeit 
 im engsten Kreise und der Tradition nachkommend einen "guten Rutsch ins neue Jahr".
 
-Malte Dostal (aka sanj0)
+Malte Dostal (sanj0)
