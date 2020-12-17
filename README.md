@@ -23,7 +23,7 @@ Wikipedia-Artikel der einzelnen Monate, sowie archivierten Versionen des Forums
 Beide Non-Profit-Organisationen (Wikimedia und das Internet Archive) sammeln derzeit wie
 jedes Jahr spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem, 
 freiem Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
- 
+<br/>
 
 ## Januar
 
