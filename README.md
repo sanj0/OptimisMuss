@@ -28,7 +28,7 @@ Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung | DW](h
 
 ## Februar
 
-Am **09.02** finden die Oscar-Verleihungen statt; "Parasite" des Südkoreanischen Regisseurs Bong Joon-ho gewinnt als erster internationaler Film in der Kategorie "Bester Film des Jahres". Der Film und seine Mitwirkungen bekommen auf diesem Weg viel Aufmerksamkeit, außerdem ist es ein Zeichen dafür, dass nicht nur die teuersten Hollywood-Produktionen aus den Vereinigten Staaten erfolgreiche und schöne Filme sein können.
+Am **09.02** finden die Oscar-Verleihungen statt; "Parasite" des südkoreanischen Regisseurs Bong Joon-ho gewinnt als erster internationaler Film in der Kategorie "Bester Film des Jahres". Der Film und seine Mitwirkungen bekommen auf diesem Weg viel Aufmerksamkeit, außerdem ist es ein Zeichen dafür, dass nicht nur die teuersten Hollywood-Produktionen aus den Vereinigten Staaten erfolgreiche und schöne Filme sein können.
 Quellen und zusätzliche Informationen: [Parasite (Film) | Wikipedia](https://de.wikipedia.org/wiki/Parasite_(Film))
 
 Die Europäische Weltraumorganisation (ESA) startet am **10.02** die Sonde "Solar Orbiter" zur Sonne, die als bisher komplexeste ihrer Art zum Beispiel den 11-Jährigen Zyklus der Sonnenwinde erforschen soll. Besonders wichtig ist das, weil starke solare Winde auf der Erde Kurzwellenkommunikation stören können. Die ersten Fotos der Sonde werden im Juli 2020 veröffentlicht werden.
