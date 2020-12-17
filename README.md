@@ -55,9 +55,10 @@ Quellen und zusätzliche Informationen:
 [Same-sex marriage now legal in Northern Ireland | bbc](https://www.bbc.com/news/uk-northern-ireland-51086276) 
 - [Gleichgeschlechtliche Ehe – Situation in Europa | Wikipedia ](https://de.wikipedia.org/wiki/Gleichgeschlechtliche_Ehe#Europa)
 
+
 **21.01**: Nach Monaten des politischen Stillstandes und anhaltenden Demonstrationen haben 
-gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt eine neue Regierung 
-- gemäß der Forderungen der Demonstranten ohne Ministern aus traditionellen Parteien. 
+gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt eine neue Regierung - 
+gemäß der Forderungen der Demonstranten ohne Ministern aus traditionellen Parteien.
 Außerdem gibt es jetzt viel mehr Frauen in der Regierung, 
 zum Beispiel Verteidigungsministerin Zeina Akar.\
 Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung | DW](https://www.dw.com/de/libanon-hat-eine-neue-regierung/a-52102715)
@@ -81,6 +82,7 @@ Quellen und zusätzliche Informationen:
 [Solar Orbiter | ESA](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter) 
 - [Sonnenwind | Wikipedia](https://de.wikipedia.org/wiki/Sonnenwind#Auswirkungen)
 
+
 In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben 
 werden vollkommen kostenlos. Lediglich die 1. Klasse in Zügen und kommunal betriebene ÖPNV 
 sind noch kostenpflichtig. Das kleine Land westlich neben Deutschland ist damit ein weltweiter 
@@ -102,7 +104,8 @@ Niederlanden gilt jetzt tagsüber ein Tempolimit von 100 km/h auf allen Autobahn
 Das Ziel der Regelung ist es, die Stickoxidemissionen zu reduzieren.\
 Quellen und zusätzliche Informationen: 
 [Tempo 100 in Holland | ADAC](https://www.adac.de/verkehr/tempo-100-holland/) 
-- [Umweltbundesamt: Tempolimits gut fürs Klima | tagesschau.de](https://www.tagesschau.de/inland/tempolimit-umweltamtbundes-studie-101.html) 
+- [Umweltbundesamt: Tempolimits gut fürs Klima | tagesschau.de](https://www.tagesschau.de/inland/tempolimit-umweltamtbundes-studie-101.html)
+
 
 Am **10.03** wird Adam Castillejo durch eine Stammzellentransplantation von HIV geheilt. 
 Er ist damit nach Timothy Brown, der mit einer ähnlichen Behandlung 2011 von dem Virus 
@@ -120,6 +123,7 @@ dazu beitragen, den Menschen multiplanetär zu machen.\
 Quellen und zusätzliche Informationen: 
 [SpaceX, Blue Origin land contracts to build NASA's astronaut moon lander | Reuters](https://uk.reuters.com/article/us-space-exploration-nasa/musks-spacex-bezos-blue-origin-land-contracts-to-build-nasas-astronaut-moon-lander-idUKKBN22C3DI) 
 - [Artemis | NASA](https://www.nasa.gov/specials/artemis/)
+
 
 Der April hält sich in Sachen Umweltschutz auch nicht lange zurück: in Pakistan ist die 
 Honigproduktion dank des Staatsprojektes "Billion Tree Tsunami" um 70% gestiegen. 
@@ -141,6 +145,7 @@ für jeden gesammelten Dollar einen Baum. Die bis spätestens Ende 2022 gesetzte
 werden schätzungsweise 1,6 Millionen Tonnen CO<sub>2</sub> aus der Luft filtern.\
 Quellen und zusätzliche Informationen: [Team Trees | Wikipedia](https://de.wikipedia.org/wiki/Team_Trees) 
 - [teamtrees.org](https://teamtrees.org)
+
 
 Am **30.05** gelingt SpaceX ein großer Durchbruch: mit Robert Behnken und Douglas Hurley 
 schießt die Firma unter Elon Musk die ersten Amerikaner seit 2011 in das All, nämlich zur 
@@ -169,6 +174,7 @@ alle Bundesstaaten der USA getroffen haben.\
 Quellen und zusätzliche Informationen: 
 [U.S. Support for Same-Sex Marriage Matches Record High](https://news.gallup.com/poll/311672/support-sex-marriage-matches-record-high.aspx) 
 - [Same-sex marriage in the United States | Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_States)
+
 
 ## Nachwort
 
