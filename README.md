@@ -5,22 +5,54 @@ Ein optimistischer Jahresrückblick von Malte Dostal
 
 ## Vorwort [<sub><sup>Überspringen</sup></sub>](#januar)
 
-Der vorliegende Jahresrückblick ist gemäß seines Titels durch die Gläser einer rosaroten Brille recherchiert und geschrieben. Dahingehend werden hier nur positive Ereignisse des Kalenderjahres 2020 (oder [12020](https://de.wikipedia.org/wiki/Holozän-Kalender) ;) aufgeführt. Dieser Umstand soll auf keinen Fall die Opfer der anhaltenden Pandemie schönreden oder diskreditieren, die Omnipräsenz der negativen Themen und Ereignisse dieses Jahres soll nur für den Moment ausgeblendet, aber keinesfalls vergessen werden. Das gleiche gilt auch für die passiven Opfer der Situation und die Beeinträchtigten jedweder anderer katastrophalen Ereignissen dieses Jahres. 
-Jetzt aber wieder hoch mit der rosaroten Brille und zum letzten Punkt vor dem tatsächlichen Jahresrückblick.
+Der vorliegende Jahresrückblick ist gemäß seines Titels durch die Gläser einer rosaroten Brille 
+recherchiert und geschrieben. Dahingehend werden hier nur positive Ereignisse des 
+Kalenderjahres 2020 (oder [12020](https://de.wikipedia.org/wiki/Holozän-Kalender) ;) aufgeführt. 
+Dieser Umstand soll auf keinen Fall die Opfer der anhaltenden Pandemie schönreden oder 
+diskreditieren, die Omnipräsenz der negativen Themen und Ereignisse dieses Jahres soll nur 
+für den Moment ausgeblendet, aber keinesfalls vergessen werden. Das gleiche gilt auch für die 
+passiven Opfer der Situation und die Beeinträchtigten jedweder anderer katastrophalen 
+Ereignissen dieses Jahres. 
+Jetzt aber wieder hoch mit der rosaroten Brille und zum letzten Punkt vor dem 
+tatsächlichen Jahresrückblick.
 
-Die Aggregation der folgenden Ereignisse, Nachrichten und Errungenschaften wurde durch die Wikipedia-Artikel der einzelnen Monate, sowie archivierten Versionen des Forums [r/UpliftingNews](https://www.reddit.com/r/UpliftingNews) im Rahmen der [WayBackMachine](https://archive.org/web/) maßgeblich erleichtert. Beide Non-Profit-Organisationen (Wikimedia und das Internet Archive) sammeln derzeit wie jedes Jahr spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem, freiem Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
+Die Aggregation der folgenden Ereignisse, Nachrichten und Errungenschaften wurde durch die 
+Wikipedia-Artikel der einzelnen Monate, sowie archivierten Versionen des Forums 
+[r/UpliftingNews](https://www.reddit.com/r/UpliftingNews) im Rahmen der 
+[WayBackMachine](https://archive.org/web/) maßgeblich erleichtert. 
+Beide Non-Profit-Organisationen (Wikimedia und das Internet Archive) sammeln derzeit wie
+jedes Jahr spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem, 
+freiem Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
  
 
 ## Januar
 
-Das Jahr fängt hierzulande mit einem zwar kleinen aber dennoch nicht zu übersehenden Schritt in die richtige Richtung an: in Augsburg sind jetzt öffentliche Verkehrsmittel in der Innenstadt ("City-Zone") vollkommen kostenfrei. So wird es viel attraktiver, mit den ÖPVN durch die Stadt zu fahren, als mit dem eignen Auto, was bekanntermaßen niedrigere Emissionen von Treibhausgasen und anderen für Mensch und Umwelt schädliche Stoffe zur Folge hat. Jetzt kostet das nicht nur nichts mehr, eventuelle Wartezeiten an Ticketautomaten oder -schaltern gibt es jetzt ebenfalls nicht mehr zu befürchten. 
-Quellen und zusätzliche Informationen: [Gratis durch die City-Zone | swa](https://www.sw-augsburg.de/magazin/detail/gratis-durch-die-city-zone/) 
+Das Jahr fängt hierzulande mit einem zwar kleinen aber dennoch nicht zu übersehenden Schritt 
+in die richtige Richtung an: in Augsburg sind jetzt öffentliche Verkehrsmittel in der Innenstadt 
+("City-Zone") vollkommen kostenfrei. So wird es viel attraktiver, mit den ÖPVN durch die Stadt 
+zu fahren, als mit dem eignen Auto, was bekanntermaßen niedrigere Emissionen von 
+Treibhausgasen und anderen für Mensch und Umwelt schädliche Stoffe zur Folge hat. 
+Jetzt kostet das nicht nur nichts mehr, eventuelle Wartezeiten an Ticketautomaten oder -schaltern 
+gibt es jetzt ebenfalls nicht mehr zu befürchten. 
+Quellen und zusätzliche Informationen: 
+[Gratis durch die City-Zone | swa](https://www.sw-augsburg.de/magazin/detail/gratis-durch-die-city-zone/) 
 
-Ein Schritt mit selber Wirkung erfolgt zum Neujahr auch von der Bundesregierung: der Fernverkehr der Deutschen Bahn ist ab Sofort mit 7% statt den bisherigen 19% besteuert. Wegen der vollständigen Weitergabe an die Kunden zahlen Fernverkehrfahrer der Deutschen Bahn jetzt circa 10% weniger, was auch hier die Entscheidung, nicht mit dem Auto zu fahren, erleichtert.
+Ein Schritt mit selber Wirkung erfolgt zum Neujahr auch von der Bundesregierung: 
+der Fernverkehr der Deutschen Bahn ist ab Sofort mit 7% statt den bisherigen 19% besteuert. 
+Wegen der vollständigen Weitergabe an die Kunden zahlen Fernverkehrfahrer der 
+Deutschen Bahn jetzt circa 10% weniger, was auch hier die Entscheidung, 
+nicht mit dem Auto zu fahren, erleichtert.
 Quellen und zusätzliche Informationen: [Nicht alle Bahn-Tickets sind billiger geworden | BR24](https://www.br.de/nachrichten/deutschland-welt/nicht-alle-bahn-tickets-sind-billiger-geworden,Rmcg1SM)
 
-Ab dem **13.01** gilt die Ehe-Für-Alle im gesamten Vereinigten Königreich: in Nordirland, als letzter großer Teil der Vereinigung, wird die Eheschließung gleichgeschlechtlicher Paare  legalisiert. In den allermeisten westeuropäischen Ländern sind homosexuelle (und bisexuelle) Menschen jetzt in dieser Hinsicht gleichgestellt und nicht länger benachteiligt. Auch in anderen europäischen Ländern, in denen nur Eingetragene Partnerschaften möglich sind - zum Beispiel in der Schweiz - wird der Druck der Bevölkerung immer größer.
-Quellen und zusätzliche Informationen: [Same-sex marriage now legal in Northern Ireland | bbc](https://www.bbc.com/news/uk-northern-ireland-51086276) - [Gleichgeschlechtliche Ehe – Situation in Europa | Wikipedia ](https://de.wikipedia.org/wiki/Gleichgeschlechtliche_Ehe#Europa)
+Ab dem **13.01** gilt die Ehe-Für-Alle im gesamten Vereinigten Königreich: in Nordirland, 
+als letzter großer Teil der Vereinigung, wird die Eheschließung gleichgeschlechtlicher Paare
+legalisiert. In den allermeisten westeuropäischen Ländern sind homosexuelle (und bisexuelle) 
+Menschen jetzt in dieser Hinsicht gleichgestellt und nicht länger benachteiligt. Auch in anderen 
+europäischen Ländern, in denen nur Eingetragene Partnerschaften möglich sind - zum Beispiel 
+in der Schweiz - wird der Druck der Bevölkerung immer größer.
+Quellen und zusätzliche Informationen: 
+[Same-sex marriage now legal in Northern Ireland | bbc](https://www.bbc.com/news/uk-northern-ireland-51086276) 
+- [Gleichgeschlechtliche Ehe – Situation in Europa | Wikipedia ](https://de.wikipedia.org/wiki/Gleichgeschlechtliche_Ehe#Europa)
 
 **21.01**: Nach Monaten des politischen Stillstandes und anhaltenden Demonstrationen haben gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt eine neue Regierung - gemäß der Forderungen der Demonstranten ohne Ministern aus traditionellen Parteien. Außerdem gibt es jetzt viel mehr Frauen in der Regierung, zum Beispiel Verteidigungsministerin Zeina Akar.
 Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung | DW](https://www.dw.com/de/libanon-hat-eine-neue-regierung/a-52102715)
