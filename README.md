@@ -177,6 +177,34 @@ Quellen und zusätzliche Informationen:
 - [Same-sex marriage in the United States - Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_States)
 <br/>
 
+## Juli
+
+**06.07**: Australiens größte Stadt, Sydney, stellt ihren Stromverbrauch vollständig auf erneuerbare
+Energiequellen um. Das bedeutet, dass in der ganzen Stadt die Straßenlaternen, 
+Schwimmbäder, Regierungsgebäude und das Rathaus von jetzt an mit Strom von einer Windfarm
+und zwei Solarparks betrieben werden.\
+Quellen und zusätzliche Informationen: 
+[The City of Sydney is now on 100% renewable energy - EGEB](https://electrek.co/2020/07/06/egeb-the-city-of-sydney-100-renewable-energy-arc-marine-reef-cubes-offshore-wind/)
+
+Am **19.07** gibt es wieder gute Nachrichten aus dem All - die Raumsonde "al-Amal" 
+("Die Hoffnung"; international auch oft "Hope" genannt) der Vereinigten Arabischen Emirate startet
+von Japan aus zum Planet Mars. Es machen also dieses Jahr nicht nur die NASA und ESA 
+fortschritte, sondern auch andere Länder und deren Raumfahrtprogramme. Der Name soll
+laut Muhammad bin Raschid Al Maktum, dem Emirat von Dubai, eine Botschaft des Optimismus
+and Millionen junge Araber aussenden. Die Erkenntnisse der Sonde werden der internationalen
+Fachöffentlichkeit frei zur Verfügung gestellt werden.\
+Quellen und zusätzliche Informationen: [al-Amal - Wikipedia](https://de.wikipedia.org/wiki/Al-Amal)
+ 
+Gleich beim Thema Raumfahrt zum Mars zu bleibend startet am **20.07** die Mars-2020
+Mission der Vereinigten Staaten von Amerika. Damit schickt die NASA ihrenf fünften Mars-Rover
+und ihren ersten Mars-Helikopter auf unseren Nachbarplaneten. Die Ankunft der Mission ist für
+den 18.02.2021 angesetzt und die beiden Vehikel sollen unter anderem dabei helfen, Erkenntnisse
+über mögliches Leben auf dem Mars zu erlangen.\
+Quellen und zusätzliche Informationen: [Mars-2020 - Wikipedia](https://de.wikipedia.org/wiki/Mars_2020)
+<br/>
+
+## August
+
 ## Nachwort
 
 Wie die vorliegenden Ausschnitte aus dem Kalenderjahr 2020 bezeugen, ist auch dieses Jahr 
