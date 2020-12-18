@@ -278,6 +278,43 @@ Quellen und zusätzliche Informationen:
 
 ## November
 
+Ab dem **03.11** finden die Präsidentschaftswahlen in den USA statt und die Wahlbeteiligung
+ist (zumindest in absoluten Zahlen) so hoch wie noch nie. Fast 160 Millionen Amerikaner haben
+ein Kreuz gemacht, was circa 49% der Bevölkerung entspricht und damit 7% Prozent höher
+ist als bei der Clinton-Trump Wahl 2016. Der Trend, dass die Wahlbeteiligung wieder steigt, 
+lässt sich auch in anderen Wahlsystemen beobachten, zum Beispiel in Deutschland und bei den
+Europawahlen.\
+Quellen und zusätzliche Informationen: 
+[The 2020 Election Set a Record for Voter Turnout - time.com](https://time.com/5907062/record-turnout-history/)
+- [Wahlbeteiligung - Wikipedia](https://de.wikipedia.org/wiki/Wahlbeteiligung#Andere_L%C3%A4nder)
+<br/>
+
+**10.11** Der amerikanische Technologie-Gigant Apple stellt den ersten hauseigenen 
+Computerprozessor vor und treibt die Industrie damit in zweierlei Hinsicht weit voran: erstens hat Intel 
+damit einen großen Kunden verloren und muss daher, um im Wettbewerb zu bleiben, innovative Technologien
+entwickeln und zweitens hat Apple damit den ersten kommerziellen 5-Nanometer Chip für 
+Computer herausgebracht, was einen bedeutenden Meilenstein darstellt.\
+Quellen und zusätzliche Informationen:
+[Apple stellt den M1 vor - apple.com](https://www.apple.com/de/newsroom/2020/11/apple-unleashes-m1/)
+- [5 nm process](https://en.wikipedia.org/wiki/5_nm_process)
+<br/>
+
+Am **29.11** speist der größte deutsche Solarpark seine erste Kilowattstunde in das Stromnetz.
+Die Anlage in Werneuchen (Brandenburg), bestehend aus 465000 Modulen kann genug Strom
+produzieren, um ungefähr 50000 Haushalte zu versorgen. Der Park ist ein Projekt der EnBW und
+wird komplett ohne staatliche Zuschüsse finanziert.\
+Quellen und zusätzliche Informationen:
+[Germany’s largest solar park feeds first kilowatt hour of electricity into the grid - NS Energy](https://www.nsenergybusiness.com/news/germanys-largest-solar-park-feeds-first-kilowatt-hour-of-electricity-into-the-grid/)
+
+## Dezember (stand 16.12)
+
+Der jährliche Klimabericht der EU spricht eine optimistische Sprache: Die Treibhausgasemissionen 
+der Europäischen Union sind seit 1990 um 24% gesunken. Im Vergleich zu 2019 war der Ausstoß
+sogar ungefähr 8% geringer, doch die EU will sich auf diesem Erfolg nicht ausruhen: Sprecher
+der Union haben nochmal das Ziel, bis 2050 der erste Klimaneutrale Kontinent zu werden, verdeutlicht.\
+Quellen und zusätzliche Informationen:
+[Report: EU greenhouse gas emissions down 24% since 1990 - apnews.com](https://apnews.com/article/climate-change-climate-europe-bc73c9bf1beb6675ea7350ca14117d78)
+
 
 ## Nachwort
 
