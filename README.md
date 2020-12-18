@@ -312,7 +312,7 @@ Quellen und zusätzliche Informationen:
 [Report: EU greenhouse gas emissions down 24% since 1990 - apnews.com](https://apnews.com/article/climate-change-climate-europe-bc73c9bf1beb6675ea7350ca14117d78)
 </br>
 
-<sup>1<sup/> Der verlinkte Artikel wurde an diesem Datum veröffentlicht, das Ereignis selbst
+<sup>1</sup> Der verlinkte Artikel wurde an diesem Datum veröffentlicht, das Ereignis selbst
 ist ein mehrjähriger Trend.
 
 
