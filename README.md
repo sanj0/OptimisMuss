@@ -312,7 +312,7 @@ Quellen und zusätzliche Informationen:
 <br />
 
 <sup>1</sup> Der verlinkte Artikel wurde an diesem Datum veröffentlicht, das Ereignis selbst
-ist ein mehrjähriger Trend.
+ist ein längerer Trend.
 
 
 ## Nachwort
