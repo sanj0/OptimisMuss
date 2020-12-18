@@ -318,7 +318,7 @@ ist ein mehrjähriger Trend.
 ## Nachwort
 
 Wie die vorliegenden Ausschnitte aus dem Kalenderjahr 2020 bezeugen, ist auch dieses Jahr
-viel gutes passiert, zumal hier sicherlich nicht annähernd alles gesammelt ist.
+viel gutes passiert, zumal hier sicherlich nicht annähernd alles aufgeführt ist.
 Durch die bestehende Situation sind - besonders jetzt zum Jahresende - die guten Nachrichten
 nur etwas untergegangen; genau diesem Phänomen soll dieser optimistische Jahresrückblick
 entgegenwirken, denn jedes Jahr gibt es wunderbare Entwicklungen in
@@ -326,6 +326,6 @@ Sachen Klimaschutz, Wissenschaft, Medizin und Menschenrechte. Auch 2020.
 
 Freuen wir uns also auf die positiven Ereignisse und Neuigkeiten im nächsten Jahr.
 In diesem Sinne wünsche ich Ihnen, sehr geehrte(r) Leser(in) eine frohe Weihnachtszeit
-im engsten Kreise und der Tradition nachkommend einen "guten Rutsch ins neue Jahr".
+im engsten Kreise und einen guten Rutsch ins neue Jahr.
 
 Malte Dostal (sanj0)
