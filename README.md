@@ -268,8 +268,8 @@ Frei übersetzt bekommt
 die Organisation den Preis für 
 > "[...] ihre Anstrengungen den Hunger zu bekämpfen, für ihren 
 > Beitrag zur Verbesserung der Bedingungen für Frieden in Konfliktzonen und dafür, dass sie als 
-> treibende Kraft hinter den Anstrengungen standen zu verhindern, dass Hunger als eine Waffe 
-> für Krieg und Konflikte benutzt wird"
+> treibende Kraft hinter den Anstrengungen stehe zu verhindern, dass Hunger als eine Waffe 
+> im Krieg und in Konflikte benutzt wird"
 
 Quellen und zusätzliche Informationen:
 [The Nobel Peace Prize 2020 - nobelprize.org](https://www.nobelprize.org/prizes/peace/2020/summary/)
