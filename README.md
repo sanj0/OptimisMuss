@@ -164,7 +164,7 @@ die bestehende Legalität der Eheschließung zwischen gleichgeschlechtlichen Par
 Während der US-Bundesstaat Massachusetts 2004 als eine der ersten Regierungen auf der
 Welt die Heirat von homosexuellen Paaren legalisiert hat, so hat es doch bis 2017 gedauert,
 bis alle 50 Bundesstaaten ebenfalls das Recht auf Eheschließung aller Paare erlaubt hat.
-Dass 2020 zwei Drittel der US-Amerikanischen Bevölkerung der Gesetzeslage zustimmt zeigt,
+Dass 2020 zwei Drittel der US-Amerikanischen Bevölkerung der Gesetzeslage zustimmt, zeigt,
 dass es genau die richtige Entscheidung war, die schlussendlich
 alle Bundesstaaten der USA getroffen haben.\
 Quellen und zusätzliche Informationen:
