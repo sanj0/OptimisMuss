@@ -295,8 +295,8 @@ Quellen und zusätzliche Informationen:
 <br />
 
 Am **29.11** speist der größte deutsche Solarpark seine erste Kilowattstunde in das Stromnetz.
-Die Anlage in Werneuchen (Brandenburg), bestehend aus 465000 Modulen kann genug Strom
-produzieren, um ungefähr 50000 Haushalte zu versorgen. Der Park ist ein Projekt der EnBW und
+Die Anlage in Werneuchen (Brandenburg) besteht aus 465.000 Modulen und kann genug Strom
+produzieren, um ungefähr 50.000 Haushalte zu versorgen. Der Park ist ein Projekt der EnBW und
 wird komplett ohne staatliche Zuschüsse finanziert.\
 Quellen und zusätzliche Informationen:
 [Germany’s largest solar park feeds first kilowatt hour of electricity into the grid - NS Energy](https://www.nsenergybusiness.com/news/germanys-largest-solar-park-feeds-first-kilowatt-hour-of-electricity-into-the-grid/)
