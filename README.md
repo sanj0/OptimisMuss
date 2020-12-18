@@ -19,7 +19,7 @@ Wikipedia-Artikel der einzelnen Monate, sowie archivierten Versionen des Forums
 Beide Non-Profit-Organisationen (Wikimedia und das Internet Archive) sammeln derzeit wie
 jedes Jahr Spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem,
 freien Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
-</br>
+<br />
 
 ## Januar
 
@@ -50,7 +50,7 @@ in der Schweiz - wird der Druck der Bevölkerung immer größer.\
 Quellen und zusätzliche Informationen:
 [Same-sex marriage now legal in Northern Ireland - bbc](https://www.bbc.com/news/uk-northern-ireland-51086276)
 - [Gleichgeschlechtliche Ehe – Situation in Europa - Wikipedia ](https://de.wikipedia.org/wiki/Gleichgeschlechtliche_Ehe#Europa)
-</br>
+<br />
 
 **21.01**: Nach Monaten des politischen Stillstandes und anhaltender Demonstrationen
 gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt ein neues Kabinett -
@@ -58,7 +58,7 @@ gemäß der Forderungen der Demonstranten ohne Minister aus traditionellen Parte
 Außerdem gibt es jetzt mehr Frauen in der Regierung, zum Beispiel
 Verteidigungsministerin Zeina Akar.\
 Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung - DW](https://www.dw.com/de/libanon-hat-eine-neue-regierung/a-52102715)
-</br>
+<br />
 
 ## Februar
 
@@ -77,7 +77,7 @@ Sonde werden im Juli 2020 veröffentlicht werden.\
 Quellen und zusätzliche Informationen:
 [Solar Orbiter - ESA](https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter)
 - [Sonnenwind - Wikipedia](https://de.wikipedia.org/wiki/Sonnenwind#Auswirkungen)
-</br>
+<br />
 
 Was Deutschland im Januar im Kleinen angefangen hat, wird von unseren Nachbarn im großen
 Stil implementiert: In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben
@@ -91,7 +91,7 @@ allerdings jährliche Kosten von circa 13 Milliarden Euro mit sich ziehen - bish
 Regierung, aber das Thema ist hierzulande noch lange nicht vom Tisch.\
 Quellen und zusätzliche Informationen:
 [Luxemburg: Kostenloser ÖPNV ist erst der Anfang - tagesschau.de](https://www.tagesschau.de/ausland/luxemburg-kostenloser-nahverkehr-101.html)
-</br>
+<br />
 
 ## März
 
@@ -101,14 +101,14 @@ Das Ziel der Regelung ist es, die Stickoxidemissionen zu reduzieren.\
 Quellen und zusätzliche Informationen:
 [Tempo 100 in Holland - ADAC](https://www.adac.de/verkehr/tempo-100-holland/)
 - [Umweltbundesamt: Tempolimits gut fürs Klima - tagesschau.de](https://www.tagesschau.de/inland/tempolimit-umweltamtbundes-studie-101.html)
-</br>
+<br />
 
 Am **10.03** wird Adam Castillejo durch eine Stammzellentransplantation von HIV geheilt.
 Er ist damit nach Timothy Brown, der mit einer ähnlichen Behandlung 2011 von dem Virus
 geheilt wurde, der zweite Mensch aller Zeiten, der erfolgreich von HIV geheilt werden konnte.\
 Quellen und zusätzliche Informationen:
 [Second person ever to be cleared of HIV - The Guardian](https://www.theguardian.com/science/2020/mar/09/second-person-cleared-hiv-adam-castillejo-reveals-identity)
-</br>
+<br />
 
 ## April
 
@@ -119,7 +119,7 @@ beauftragt, Mondlandegeräte zu konstruieren.\
 Quellen und zusätzliche Informationen:
 [SpaceX, Blue Origin land contracts to build NASA's astronaut moon lander - Reuters](https://uk.reuters.com/article/us-space-exploration-nasa/musks-spacex-bezos-blue-origin-land-contracts-to-build-nasas-astronaut-moon-lander-idUKKBN22C3DI)
 - [Artemis - NASA](https://www.nasa.gov/specials/artemis/)
-</br>
+<br />
 
 Der April hält sich in Sachen Umweltschutz auch nicht zurück: in Pakistan ist die
 Honigproduktion dank des Staatsprojektes "Billion Tree Tsunami" um 70% gestiegen.
@@ -130,7 +130,7 @@ zehn Milliarden gepflanzte Bäume als Ziel hat.\
 Quellen und zusätzliche Informationen: [Pakistan's Honey Production Increases by 70% - propakistani](https://web.archive.org/web/20200422145651/https://propakistani.pk/2020/04/20/pakistans-honey-production-increases-by-70-thanks-to-billion-tree-project/)
 - [Billion Tree Tsunami - Wikipedia](https://en.wikipedia.org/wiki/Billion_Tree_Tsunami)
 - [See How The "10 Billion Tree Tsunami"  Campaign Transformed This Area - Bored Panda](https://www.boredpanda.com/ten-billion-tree-tsunami-project-progress/?utm_source=google&utm_medium=organic&utm_campaign=organic)
-</br>
+<br />
 
 ## Mai
 
@@ -141,7 +141,7 @@ für jeden gesammelten Dollar einen Baum. Die bis spätestens Ende 2022 gesetzte
 werden schätzungsweise 1,6 Millionen Tonnen CO<sub>2</sub> aus der Luft filtern.\
 Quellen und zusätzliche Informationen: [Team Trees - Wikipedia](https://de.wikipedia.org/wiki/Team_Trees)
 - [teamtrees.org](https://teamtrees.org)
-</br>
+<br />
 
 Am **30.05** gelingt SpaceX ein großer Durchbruch: mit den NASA-Astronauten Robert Behnken und Douglas Hurley
 schießt die Firma unter Elon Musk die ersten Amerikaner seit 2011 ins All, nämlich zur
@@ -149,7 +149,7 @@ Internationalen Raumstation ISS. Ein großer Schritt der ehemaligen Pionier-Nati
 Raumfahrt und sicherlich eine Vorbereitung auf das Artemis-Programm, welches bereits im Monat zuvor
 große Fortschritte machen konnte (siehe oben).\
 Quellen und zusätzliche Informationen: [DM-2 - NASA](https://www.nasa.gov/specials/dm2/)
-</br>
+<br />
 
 ## Juni
 
@@ -170,7 +170,7 @@ alle Bundesstaaten der USA getroffen haben.\
 Quellen und zusätzliche Informationen:
 [U.S. Support for Same-Sex Marriage Matches Record High](https://news.gallup.com/poll/311672/support-sex-marriage-matches-record-high.aspx)
 - [Same-sex marriage in the United States - Wikipedia](https://en.wikipedia.org/wiki/Same-sex_marriage_in_the_United_States)
-</br>
+<br />
 
 ## Juli
 
@@ -196,7 +196,7 @@ und ihren ersten Mars-Helikopter auf unseren Nachbarplaneten. Die Ankunft der Mi
 den 18.02.2021 angesetzt und die beiden Vehikel sollen unter anderem dabei helfen, Erkenntnisse
 über mögliches Leben auf dem Mars zu erlangen.\
 Quellen und zusätzliche Informationen: [Mars-2020 - Wikipedia](https://de.wikipedia.org/wiki/Mars_2020)
-</br>
+<br />
 
 ## August
 
@@ -230,7 +230,7 @@ In Maine, Oklahoma, Nebraska und Michigan ist die Anzahl der Bienen jeweils übe
 Quellen und zusätzliche Informationen:
 [Michigan bee populations are on the rise according to new data - metrotimes.com](https://www.metrotimes.com/table-and-bar/archives/2020/09/14/bee-lieve-it-or-not-michigan-bee-populations-are-on-the-rise-according-to-new-data)
 - [Why are bees important? And how you can help them - woodlandtrust.org](https://www.woodlandtrust.org.uk/blog/2018/07/why-are-bees-important-and-how-you-can-help-them)
-</br>
+<br />
 
 Am **17.09** spricht Papst Franziskus zu einer kleinen Gruppe italienischer Eltern von Kindern,
 die sich als LGBT identifizieren. Zitat des Papstes: "Gott liebt eure Kinder so wie sie sind".
@@ -252,7 +252,7 @@ Quellen und zusätzliche Informationen:
 [Golden Dawn guilty verdicts celebrated across Greece - theguardian](https://www.theguardian.com/world/2020/oct/07/golden-dawn-leader-and-ex-mps-found-guilty-in-landmark-trial)
 - [Chrysi Avgi - Wikipedia](https://de.wikipedia.org/wiki/Chrysi_Avgi)
 - [Nikolaos Michaloliakos - Wikipedia](https://de.wikipedia.org/wiki/Nikolaos_Michaloliakos)
-</br>
+<br />
 
 Am **09.10** wird der Friedensnobelpreis 2020 verliehen: das Welternährungsprogramm der Vereinten Nationen
 wird geehrt für
@@ -270,7 +270,7 @@ die Organisation den Preis für
 Quellen und zusätzliche Informationen:
 [The Nobel Peace Prize 2020 - nobelprize.org](https://www.nobelprize.org/prizes/peace/2020/summary/)
 - [Nobelpreisrede: WFP-Exekutivdirektor fordert Welt auf, Reichtum gegen Hungersnöte zu verwenden - wfp.org](https://de.wfp.org/)
-</br>
+<br />
 
 ## November
 
@@ -283,7 +283,7 @@ Europawahlen.\
 Quellen und zusätzliche Informationen:
 [The 2020 Election Set a Record for Voter Turnout - time.com](https://time.com/5907062/record-turnout-history/)
 - [Wahlbeteiligung - Wikipedia](https://de.wikipedia.org/wiki/Wahlbeteiligung#Andere_L%C3%A4nder)
-</br>
+<br />
 
 **10.11** Der amerikanische Technologie-Gigant Apple stellt den ersten hauseigenen
 Computerprozessor vor und treibt die Industrie damit in zweierlei Hinsicht weit voran: erstens hat Intel
@@ -293,7 +293,7 @@ Computer herausgebracht, was einen bedeutenden Meilenstein darstellt.\
 Quellen und zusätzliche Informationen:
 [Apple stellt den M1 vor - apple.com](https://www.apple.com/de/newsroom/2020/11/apple-unleashes-m1/)
 - [5 nm process](https://en.wikipedia.org/wiki/5_nm_process)
-</br>
+<br />
 
 Am **29.11** speist der größte deutsche Solarpark seine erste Kilowattstunde in das Stromnetz.
 Die Anlage in Werneuchen (Brandenburg), bestehend aus 465000 Modulen kann genug Strom
@@ -310,7 +310,7 @@ sogar ungefähr 8% geringer, doch die EU will sich auf diesem Erfolg nicht ausru
 der Union haben nochmal das Ziel, bis 2050 der erste Klimaneutrale Kontinent zu werden, verdeutlicht.\
 Quellen und zusätzliche Informationen:
 [Report: EU greenhouse gas emissions down 24% since 1990 - apnews.com](https://apnews.com/article/climate-change-climate-europe-bc73c9bf1beb6675ea7350ca14117d78)
-</br>
+<br />
 
 <sup>1</sup> Der verlinkte Artikel wurde an diesem Datum veröffentlicht, das Ereignis selbst
 ist ein mehrjähriger Trend.
