@@ -200,16 +200,17 @@ Quellen und zusätzliche Informationen: [Mars-2020 - Wikipedia](https://de.wikip
 
 ## August
 
-**10.08**: ein Wissenschaftlerteam aus Australien und China habe einen Weg gefunden, mit Hilfe
+**10.08**: ein Wissenschaftlerteam aus Australien und China hat einen Weg gefunden, mit Hilfe
 von Solarenergie effizient Wasser zu filtern: mit der von ihnen entwickelten Technik ist es möglich,
-bis zu 150 Liter verunreinigtes Wasser in 30 Minuten sauberer zu filtern, als die WHO empfiehlt.\
+bis zu 150 Liter verunreinigtes Wasser in 30 Minuten so sauber zu filtern, dass es die Anforderungen
+der WHO übertrifft.\
 Quellen und zusätzliche Informationen:
 [Sunlight could solve drinking water's biggest problem in 30 minutes - inverse.com](https://www.inverse.com/innovation/sunlight-powered-clean-water)
 
 Am **25.08** gibt es wunderbare Nachrichten aus Afrika: der ganze Kontinent hat Polio besiegt
 und ist jetzt frei von der Krankheit. Auch "Kinderlähmung" genannt befiel die von Polioviren
 induzierte Krankheit besonders sehr junge Menschen und konnte in schlimmen Fällen bleibende
-Lähmungen verursachen. Wie auch in Deutschland war eine Konsequente Immunisierung durch
+Lähmungen verursachen. Wie auch in Deutschland war eine konsequente Immunisierung durch
 Impfungen der Schlüssel zum Erfolg.\
 Quellen und zusätzliche Informationen:
 [Africa declared free of wild polio in 'milestone' - bbc](https://www.bbc.com/news/world-africa-53887947)
