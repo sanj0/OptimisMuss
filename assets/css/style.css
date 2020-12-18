@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header {
-  display: none;
+h2.project-tagline {
+  display: none !important;
 }
