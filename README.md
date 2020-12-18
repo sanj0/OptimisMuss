@@ -7,22 +7,18 @@ Ein optimistischer Jahresrückblick von Malte Dostal
 
 Der vorliegende Jahresrückblick ist gemäß seines Titels durch die Gläser einer rosaroten Brille 
 recherchiert und geschrieben. Dahingehend werden hier nur positive Ereignisse des 
-Kalenderjahres 2020 (oder [12020](https://de.wikipedia.org/wiki/Holozän-Kalender) ;) aufgeführt. 
-Dieser Umstand soll auf keinen Fall die Opfer der anhaltenden Pandemie schönreden oder 
-diskreditieren, die Omnipräsenz der negativen Themen und Ereignisse dieses Jahres soll nur 
-für den Moment ausgeblendet, aber keinesfalls vergessen werden. Das gleiche gilt auch für die 
-passiven Opfer der Situation und die Beeinträchtigten jedweder anderer katastrophalen 
-Ereignissen dieses Jahres.\
-Jetzt aber wieder hoch mit der rosaroten Brille und zum letzten Punkt vor dem 
-tatsächlichen Jahresrückblick.
+Kalenderjahres 2020 aufgeführt. 
+Unter keinen Umständen ist die Intention dahinter, die anhaltende Situation schönzureden
+oder die Betroffenen zu diskreditieren, viel mehr sollen die herausragendsten Errungenschaften 
+des Jahres reminisziert und gefeiert werden.
 
 Die Aggregation der folgenden Ereignisse, Nachrichten und Errungenschaften wurde durch die 
 Wikipedia-Artikel der einzelnen Monate, sowie archivierten Versionen des Forums 
 [r/UpliftingNews](https://www.reddit.com/r/UpliftingNews) im Rahmen der 
 [WayBackMachine](https://archive.org/web/) maßgeblich erleichtert. 
 Beide Non-Profit-Organisationen (Wikimedia und das Internet Archive) sammeln derzeit wie
-jedes Jahr spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem, 
-freiem Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
+jedes Jahr Spenden; es sei hiermit zwanglos empfohlen, einen kleinen Beitrag zu weltweitem, 
+freien Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
 <br/>
 
 ## Januar
