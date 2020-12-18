@@ -205,6 +205,80 @@ Quellen und zusätzliche Informationen: [Mars-2020 - Wikipedia](https://de.wikip
 
 ## August
 
+**10.08**: ein Wissenschaftlerteam aus Australien und China habe einen Weg gefunden, mit Hilfe
+von Solarenergie effizient Wasser zu filtern: mit der von ihnen entwickelten Technik ist es möglich,
+bis zu 150 Liter verunreinigtes Wasser in 30 Minuten sauberer zu filtern, als die WHO empfiehlt.\
+Quellen und zusätzliche Informationen: 
+[Sunlight could solve drinking water's biggest problem in 30 minutes - inverse.com](https://www.inverse.com/innovation/sunlight-powered-clean-water)
+
+Am **25.08** gibt es wunderbare Nachrichten aus Afrika: der ganze Kontinent hat Polio besiegt
+und ist jetzt frei von der Krankheit. Auch "Kinderlähmung" genannt befiel die von Polioviren
+induzierte Krankheit besonders sehr junge Menschen und konnte in schlimmen Fällen bleibende
+Lähmungen verursachen. Wie auch in Deutschland war eine Konsequente Immunisierung durch
+Impfungen der Schlüssel zum Erfolg.\
+Quellen und zusätzliche Informationen: 
+[Africa declared free of wild polio in 'milestone' - bbc](https://www.bbc.com/news/world-africa-53887947)
+
+## September
+
+**07.09**: Der ungarische Forscher Botond Roska gewinnt als Anerkennung für seine Behandlung
+zur Heilung von Blinden den deutschen Körber-Preis. Teil des Gewinns ist auch ein Preisgeld
+in Höhe von einer Million Euro. Seine genbasierte Behandlungsmethode wird bereits klinisch 
+getestet.\
+Quellen und zusätzliche Informationen:
+[Hungary's researcher Roska wins award for procedure that could cure blindness - dw.com](https://www.dw.com/en/hungarys-researcher-roska-wins-award-for-procedure-that-could-cure-blindness/a-54846376)
+
+(14.09) Das Jahr neigt sich dem Ende zu, die positiven Nachrichten in Sachen Umwelt und Klimaschutz
+lassen aber nicht nach: in vielen Bundesstaaten der USA ist die Bienenpopulation rapide gewachsen:
+In Maine, Oklahoma, Nebraska und Michigan ist die Anzahl an Bienen jeweils über 50% gestiegen.
+Quellen und zusätzliche Informationen: 
+[Michigan bee populations are on the rise according to new data - metrotimes.com](https://www.metrotimes.com/table-and-bar/archives/2020/09/14/bee-lieve-it-or-not-michigan-bee-populations-are-on-the-rise-according-to-new-data)
+- [Why are bees important? And how you can help them - woodlandtrust.org](https://www.woodlandtrust.org.uk/blog/2018/07/why-are-bees-important-and-how-you-can-help-them)
+<br/>
+
+Am **17.09** spricht Papst Franziskus zu einer kleinen Gruppe italienischer Eltern von Kindern,
+die sich als LGBT identifizieren. Zitat des Papstes: "Gott liebt eure Kinder so wie sie sind".
+Kinder und Jugendliche, die in dieser Hinsicht nicht der gesellschaftlichen (und vor allem christlichen)
+Norm entsprechen, haben es oft in gläubigen Familien besonders schwer, weil zum Beispiel
+konservative Christen dahingehen oft an der Bibel festhalten. Der Papst macht damit ein klares
+und starkes Statement, dass man die Bibel vielleicht zumindest bei solchen Themen mit dem Kontext
+ihrer Zeit im Hinterkopf verstehen sollte.\
+Quellen und zusätzliche Informationen:
+[Pope Francis to parents of L.G.B.T. children: ‘God loves your children as they are.’ - americamagazine.org](https://www.americamagazine.org/faith/2020/09/17/pope-francis-parents-lgbt-children-god-loves-your-children-they-are)
+
+## Oktober
+
+**07.10** In Griechenland wird gefeiert: Die neofaschistische, neonazistische Partei "Chrysi Avgi"
+("Goldene Morgenröte") wurde als illegale Verinigung eingestuft, die sieben führenden Mitglieder
+zu einer Gefängnisstrafe von 13 Jahren verurteilt und die Partei nach sieben Jahren von 2012 bis 2019
+aus dem griechischen Parlament geworfen.\
+Quellen und zusätzliche Informationen:
+[Golden Dawn guilty verdicts celebrated across Greece - theguardian](https://www.theguardian.com/world/2020/oct/07/golden-dawn-leader-and-ex-mps-found-guilty-in-landmark-trial)
+- [Chrysi Avgi - Wikipedia](https://de.wikipedia.org/wiki/Chrysi_Avgi)
+- [Nikolaos Michaloliakos](https://de.wikipedia.org/wiki/Nikolaos_Michaloliakos)
+<br/>
+
+Am **09.10** wird der Friedensnobelpreis 2020 verliehen: das Welternährungsprogramm der Vereinten Nationen
+wird geehrt für 
+> "[...] its efforts to combat hunger, for its contribution to bettering conditions for 
+> peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of 
+> hunger as a weapon of war and conflict." (Verweis in den Quellen)
+
+Frei übersetzt bekommt
+die Organisation den Preis für 
+> "[...] ihre Anstrengungen den Hunger zu bekämpfen, für ihren 
+> Beitrag zur Verbesserung der Bedingungen für Frieden in Konfliktzonen und dafür, dass sie als 
+> treibende Kraft hinter den Anstrengungen standen zu verhindern, dass Hunger als eine Waffe 
+> für Krieg und Konflikte benutzt wird"
+
+Quellen und zusätzliche Informationen:
+[The Nobel Peace Prize 2020 - nobelprize.org](https://www.nobelprize.org/prizes/peace/2020/summary/)
+- [Nobelpreisrede: WFP-Exekutivdirektor fordert Welt auf, Reichtum gegen Hungersnöte zu verwenden - wfp.org](https://de.wfp.org/)
+<br/>
+
+## November
+
+
 ## Nachwort
 
 Wie die vorliegenden Ausschnitte aus dem Kalenderjahr 2020 bezeugen, ist auch dieses Jahr 
