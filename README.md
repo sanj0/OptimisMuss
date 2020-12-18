@@ -143,10 +143,10 @@ Quellen und zusätzliche Informationen: [Team Trees - Wikipedia](https://de.wiki
 - [teamtrees.org](https://teamtrees.org)
 <br/>
 
-Am **30.05** gelingt SpaceX ein großer Durchbruch: mit Robert Behnken und Douglas Hurley
-schießt die Firma unter Elon Musk die ersten Amerikaner seit 2011 in das All, nämlich zur
+Am **30.05** gelingt SpaceX ein großer Durchbruch: mit den NASA-Astronauten Robert Behnken und Douglas Hurley
+schießt die Firma unter Elon Musk die ersten Amerikaner seit 2011 ins All, nämlich zur
 Internationalen Raumstation ISS. Ein großer Schritt der ehemaligen Pionier-Nation in Sachen
-Raumfahrt und sicherlich eine Vorbereitung auf "Artemis", welches bereits im Monat zuvor
+Raumfahrt und sicherlich eine Vorbereitung auf das Artemis-Programm, welches bereits im Monat zuvor
 große Fortschritte machen konnte (siehe oben).\
 Quellen und zusätzliche Informationen: [DM-2 - NASA](https://www.nasa.gov/specials/dm2/)
 <br/>
