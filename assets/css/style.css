@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 .project-tagline {
-    display: none;
+    display: none !important;
 }
 
 .page-header {
-    padding: 2.5rem 3rem;
+    padding: 2.5rem 3rem !important;
 }
