@@ -217,16 +217,16 @@ Quellen und zusätzliche Informationen:
 
 ## September
 
-**07.09**: Der ungarische Forscher Botond Roska gewinnt als Anerkennung für seine Behandlung
-zur Heilung von Blinden den deutschen Körber-Preis. Teil des Gewinns ist auch ein Preisgeld
-in Höhe von einer Million Euro. Seine genbasierte Behandlungsmethode wird bereits klinisch
-getestet.\
+**07.09**: Der ungarische Forscher Botond Roska gewinnt als Anerkennung für seine Forschungen
+an einer Behandlung zur Heilung von Blinden den deutschen Körber-Preis.
+Teil des Gewinns ist auch ein Preisgeld in Höhe von einer Million Euro.
+Seine genbasierte Behandlungsmethode wird bereits klinisch getestet.\
 Quellen und zusätzliche Informationen:
 [Hungary's researcher Roska wins award for procedure that could cure blindness - dw.com](https://www.dw.com/en/hungarys-researcher-roska-wins-award-for-procedure-that-could-cure-blindness/a-54846376)
 
-(14.09) Das Jahr neigt sich dem Ende zu, die positiven Nachrichten in Sachen Umwelt und Klimaschutz
+(14.09)<sup>1<sup/> Das Jahr neigt sich dem Ende zu, die positiven Nachrichten in Sachen Umwelt und Klimaschutz
 lassen aber nicht nach: in vielen Bundesstaaten der USA ist die Bienenpopulation rapide gewachsen:
-In Maine, Oklahoma, Nebraska und Michigan ist die Anzahl an Bienen jeweils über 50% gestiegen.
+In Maine, Oklahoma, Nebraska und Michigan ist die Anzahl der Bienen jeweils über 50% gestiegen.
 Quellen und zusätzliche Informationen:
 [Michigan bee populations are on the rise according to new data - metrotimes.com](https://www.metrotimes.com/table-and-bar/archives/2020/09/14/bee-lieve-it-or-not-michigan-bee-populations-are-on-the-rise-according-to-new-data)
 - [Why are bees important? And how you can help them - woodlandtrust.org](https://www.woodlandtrust.org.uk/blog/2018/07/why-are-bees-important-and-how-you-can-help-them)
@@ -310,6 +310,10 @@ sogar ungefähr 8% geringer, doch die EU will sich auf diesem Erfolg nicht ausru
 der Union haben nochmal das Ziel, bis 2050 der erste Klimaneutrale Kontinent zu werden, verdeutlicht.\
 Quellen und zusätzliche Informationen:
 [Report: EU greenhouse gas emissions down 24% since 1990 - apnews.com](https://apnews.com/article/climate-change-climate-europe-bc73c9bf1beb6675ea7350ca14117d78)
+<br/>
+
+<sup>1<sup/> Der verlinkte Artikel wurde an diesem Datum veröffentlicht, das Ereignis selbst
+ist ein mehrjähriger Trend.
 
 
 ## Nachwort
