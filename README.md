@@ -159,13 +159,13 @@ Quellen und zusätzliche Informationen:
 [Ethiopia to plant 5 billion trees in 2020 - qz.com](https://web.archive.org/web/20200610192642/https://qz.com/africa/1866532/ethiopia-to-plant-5-billion-trees-in-2020-to-beat-climate-change/)
 
 Ebenfalls im Juni zeigen Umfragen erfreuliche Zahlen: in den Vereinigten Staaten ist der
-Bevölkerung Zuspruch der Ehe-Für-Alle bei einem Rekordhoch: 67% der Amerikaner befürworten
+Zuspruch der Ehe-Für-Alle bei einem Rekordhoch: 67% der Amerikaner befürworten
 die bestehende Legalität der Eheschließung zwischen gleichgeschlechtlichen Partnern.
 Während der US-Bundesstaat Massachusetts 2004 als eine der ersten Regierungen auf der
 Welt die Heirat von homosexuellen Paaren legalisiert hat, so hat es doch bis 2017 gedauert,
-bis alle 50 Bundesstaaten ebenfalls das Recht auf Eheschließung von allen Paaren erlaubt hat.
+bis alle 50 Bundesstaaten ebenfalls das Recht auf Eheschließung aller Paare erlaubt hat.
 Dass 2020 zwei Drittel der US-Amerikanischen Bevölkerung der Gesetzeslage zustimmt zeigt,
-dass es genau die richtigen Entscheidungen waren, die schlussendlich
+dass es genau die richtige Entscheidung war, die schlussendlich
 alle Bundesstaaten der USA getroffen haben.\
 Quellen und zusätzliche Informationen:
 [U.S. Support for Same-Sex Marriage Matches Record High](https://news.gallup.com/poll/311672/support-sex-marriage-matches-record-high.aspx)
