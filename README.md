@@ -115,14 +115,13 @@ Quellen und zusätzliche Informationen:
 Im April macht die NASA große Fortschritte bei ihrem "Artemis" Programm, welches das Ziel hat,
 wieder Menschen auf den Mond zu fliegen und dort entsprechende Infrastruktur aufzubauen.
 Dahingehend werden die Firmen SpaceX von Elon Musk und Blue Origin von Jeff Bezos damit
-beauftragt, Mondlandegeräte zu konstruieren. Langfristig wird die NASA mit diesem Programm
-dazu beitragen, den Menschen multiplanetär zu machen.\
+beauftragt, Mondlandegeräte zu konstruieren.\
 Quellen und zusätzliche Informationen:
 [SpaceX, Blue Origin land contracts to build NASA's astronaut moon lander - Reuters](https://uk.reuters.com/article/us-space-exploration-nasa/musks-spacex-bezos-blue-origin-land-contracts-to-build-nasas-astronaut-moon-lander-idUKKBN22C3DI)
 - [Artemis - NASA](https://www.nasa.gov/specials/artemis/)
 <br/>
 
-Der April hält sich in Sachen Umweltschutz auch nicht lange zurück: in Pakistan ist die
+Der April hält sich in Sachen Umweltschutz auch nicht zurück: in Pakistan ist die
 Honigproduktion dank des Staatsprojektes "Billion Tree Tsunami" um 70% gestiegen.
 Das Projekt wurde 2014 gestartet und hat seitdem die versprochene Milliarde an
 Bäumen gepflanzt. Aber Pakistan ist noch lange nicht fertig: 2018 hat der Premierminister
