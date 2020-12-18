@@ -305,8 +305,8 @@ Quellen und zusätzliche Informationen:
 
 Der jährliche Klimabericht der EU spricht eine optimistische Sprache: Die Treibhausgasemissionen
 der Europäischen Union sind seit 1990 um 24% gesunken. Im Vergleich zu 2019 war der Ausstoß
-sogar ungefähr 8% geringer, doch die EU will sich auf diesem Erfolg nicht ausruhen: Sprecher
-der Union haben nochmal das Ziel, bis 2050 der erste Klimaneutrale Kontinent zu werden, verdeutlicht.\
+ungefähr 8% geringer, doch die EU will sich auf diesem Erfolg nicht ausruhen: Sprecher
+der Union haben nochmal das Ziel, bis 2050 der erste klimaneutrale Kontinent zu werden, verdeutlicht.\
 Quellen und zusätzliche Informationen:
 [Report: EU greenhouse gas emissions down 24% since 1990 - apnews.com](https://apnews.com/article/climate-change-climate-europe-bc73c9bf1beb6675ea7350ca14117d78)
 <br />
