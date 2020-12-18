@@ -25,7 +25,7 @@ freien Wissen und dem Erhalt von Internetkultur und -wissen beizusteuern.
 
 Das Jahr fängt hierzulande mit einem zwar kleinen aber dennoch nicht zu übersehenden Schritt 
 in die richtige Richtung an: in Augsburg sind jetzt öffentliche Verkehrsmittel in der Innenstadt 
-("City-Zone") vollkommen kostenfrei. So wird es viel attraktiver, mit den ÖPVN durch die Stadt 
+("City-Zone") vollkommen kostenfrei. So wird es attraktiver, mit den ÖPNV durch die Stadt 
 zu fahren, als mit dem eignen Auto, was bekanntermaßen niedrigere Emissionen von 
 Treibhausgasen und anderen für Mensch und Umwelt schädliche Stoffe zur Folge hat. 
 Jetzt kostet das nicht nur nichts mehr, eventuelle Wartezeiten an Ticketautomaten oder -schaltern 
@@ -33,7 +33,7 @@ gibt es jetzt ebenfalls nicht mehr zu befürchten.\
 Quellen und zusätzliche Informationen: 
 [Gratis durch die City-Zone - swa](https://www.sw-augsburg.de/magazin/detail/gratis-durch-die-city-zone/) 
 
-Ein Schritt mit selber Wirkung erfolgt zum Neujahr auch von der Bundesregierung: 
+Ein Schritt mit selber Intention erfolgt zum Neujahr auch von der Bundesregierung: 
 der Fernverkehr der Deutschen Bahn ist ab Sofort mit 7% statt den bisherigen 19% besteuert. 
 Wegen der vollständigen Weitergabe an die Kunden zahlen Fernverkehrfahrer der 
 Deutschen Bahn jetzt circa 10% weniger, was auch hier die Entscheidung, 
@@ -52,11 +52,11 @@ Quellen und zusätzliche Informationen:
 - [Gleichgeschlechtliche Ehe – Situation in Europa - Wikipedia ](https://de.wikipedia.org/wiki/Gleichgeschlechtliche_Ehe#Europa)
 <br/>
 
-**21.01**: Nach Monaten des politischen Stillstandes und anhaltenden Demonstrationen haben 
-gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt eine neue Regierung - 
-gemäß der Forderungen der Demonstranten ohne Ministern aus traditionellen Parteien.
-Außerdem gibt es jetzt viel mehr Frauen in der Regierung, 
-zum Beispiel Verteidigungsministerin Zeina Akar.\
+**21.01**: Nach Monaten des politischen Stillstandes und anhaltender Demonstrationen 
+gibt es in Libanon eine neue Regierung: Premierminister Hassan Diab formt ein neues Kabinett - 
+gemäß der Forderungen der Demonstranten ohne Minister aus traditionellen Parteien.
+Außerdem gibt es jetzt mehr Frauen in der Regierung, zum Beispiel 
+Verteidigungsministerin Zeina Akar.\
 Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung - DW](https://www.dw.com/de/libanon-hat-eine-neue-regierung/a-52102715)
 <br/>
 
@@ -79,7 +79,8 @@ Quellen und zusätzliche Informationen:
 - [Sonnenwind - Wikipedia](https://de.wikipedia.org/wiki/Sonnenwind#Auswirkungen)
 <br/>
 
-In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben 
+Was Deutschland im Januar im Kleinen angefangen hat, wurde von unseren Nachbarn im großen
+Stil wiederholt: In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben 
 werden vollkommen kostenlos. Lediglich die 1. Klasse in Zügen und kommunal betriebene ÖPNV 
 sind noch kostenpflichtig. Das kleine Land westlich neben Deutschland ist damit ein weltweiter 
 Pionier. Dieser Maßgebliche Beitrag zum Klimaschutz kostet den Staat 41 Millionen Euro. 
