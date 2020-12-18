@@ -249,13 +249,13 @@ Quellen und zusätzliche Informationen:
 ## Oktober
 
 **07.10** In Griechenland wird gefeiert: Die neofaschistische, neonazistische Partei "Chrysi Avgi"
-("Goldene Morgenröte") wurde als illegale Verinigung eingestuft, die sieben führenden Mitglieder
+("Goldene Morgenröte") wurde als illegale Vereinigung eingestuft, die sieben führenden Mitglieder
 zu einer Gefängnisstrafe von 13 Jahren verurteilt und die Partei nach sieben Jahren von 2012 bis 2019
 aus dem griechischen Parlament geworfen.\
 Quellen und zusätzliche Informationen:
 [Golden Dawn guilty verdicts celebrated across Greece - theguardian](https://www.theguardian.com/world/2020/oct/07/golden-dawn-leader-and-ex-mps-found-guilty-in-landmark-trial)
 - [Chrysi Avgi - Wikipedia](https://de.wikipedia.org/wiki/Chrysi_Avgi)
-- [Nikolaos Michaloliakos](https://de.wikipedia.org/wiki/Nikolaos_Michaloliakos)
+- [Nikolaos Michaloliakos - Wikipedia](https://de.wikipedia.org/wiki/Nikolaos_Michaloliakos)
 <br/>
 
 Am **09.10** wird der Friedensnobelpreis 2020 verliehen: das Welternährungsprogramm der Vereinten Nationen
