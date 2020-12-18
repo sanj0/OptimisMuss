@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+.project-tagline {
+    display: none;
+}
+
+.page-header {
+    padding: 2.5rem 3rem;
+}
