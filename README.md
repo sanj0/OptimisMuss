@@ -190,7 +190,7 @@ an Millionen junge Araber aussenden. Die Erkenntnisse der Sonde werden der inter
 Fachöffentlichkeit frei zur Verfügung gestellt werden.\
 Quellen und zusätzliche Informationen: [al-Amal - Wikipedia](https://de.wikipedia.org/wiki/Al-Amal)
 
-Gleich beim Thema Raumfahrt zum Mars zu bleibend startet am **20.07** die Mars-2020
+Gleich beim Thema Raumfahrt zum Mars bleibend, startet am **20.07** die Mars-2020
 Mission der Vereinigten Staaten von Amerika. Damit schickt die NASA ihren fünften Mars-Rover
 und ihren ersten Mars-Helikopter auf unseren Nachbarplaneten. Die Ankunft der Mission ist für
 den 18.02.2021 angesetzt und die beiden Vehikel sollen unter anderem dabei helfen, Erkenntnisse
