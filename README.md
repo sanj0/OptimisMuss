@@ -183,10 +183,10 @@ Quellen und zusätzliche Informationen:
 
 Am **19.07** gibt es wieder gute Nachrichten aus dem All - die Raumsonde "al-Amal"
 ("Die Hoffnung"; international auch oft "Hope" genannt) der Vereinigten Arabischen Emirate startet
-von Japan aus zum Planet Mars. Es machen also dieses Jahr nicht nur die NASA und ESA
-fortschritte, sondern auch andere Länder und deren Raumfahrtprogramme. Der Name soll
+von Japan aus zum Planeten Mars. Es machen also dieses Jahr nicht nur die NASA und ESA
+Fortschritte, sondern auch andere Länder und deren Raumfahrtprogramme. Der Name soll
 laut Muhammad bin Raschid Al Maktum, dem Emirat von Dubai, eine Botschaft des Optimismus
-and Millionen junge Araber aussenden. Die Erkenntnisse der Sonde werden der internationalen
+an Millionen junge Araber aussenden. Die Erkenntnisse der Sonde werden der internationalen
 Fachöffentlichkeit frei zur Verfügung gestellt werden.\
 Quellen und zusätzliche Informationen: [al-Amal - Wikipedia](https://de.wikipedia.org/wiki/Al-Amal)
 
