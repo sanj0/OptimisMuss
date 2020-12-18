@@ -95,7 +95,7 @@ Quellen und zusätzliche Informationen:
 
 ## März
 
-Im März geht es gleich weiter mit europäischen Maßnahmen, um das Klima zu schützen: in den
+Im März geht es gleich weiter mit europäischen Maßnahmen, das Klima zu schützen: in den
 Niederlanden gilt jetzt tagsüber ein Tempolimit von 100 km/h auf allen Autobahnen im Land.
 Das Ziel der Regelung ist es, die Stickoxidemissionen zu reduzieren.\
 Quellen und zusätzliche Informationen:
