@@ -63,15 +63,15 @@ Quellen und zusätzliche Informationen: [Libanon hat eine neue Regierung - DW](h
 ## Februar
 
 Am **09.02** finden die Oscar-Verleihungen statt; "Parasite" des südkoreanischen Regisseurs 
-Bong Joon-ho gewinnt als erster internationaler Film in der Kategorie "Bester Film des Jahres". 
-Der Film und seine Mitwirkungen bekommen auf diesem Weg viel Aufmerksamkeit, außerdem 
+Bong Joon-ho gewinnt als erste internationale Produktion in der Kategorie "Bester Film des Jahres". 
+Die Mitwirkenden bekommen als Folge viel Aufmerksamkeit, außerdem
 ist es ein Zeichen dafür, dass nicht nur die teuersten Hollywood-Produktionen aus den 
 Vereinigten Staaten erfolgreiche und schöne Filme sein können.\
 Quellen und zusätzliche Informationen: [Parasite (Film) - Wikipedia](https://de.wikipedia.org/wiki/Parasite_(Film))
 
-Die Europäische Weltraumorganisation (ESA) startet am **10.02** die Sonde "Solar Orbiter" zur 
+Die Europäische Weltraumagentur (ESA) startet am **10.02** die Sonde "Solar Orbiter" zur 
 Sonne, die als bisher komplexeste ihrer Art zum Beispiel den 11-Jährigen Zyklus der Sonnenwinde 
-erforschen soll. Besonders wichtig ist das, weil starke solare Winde auf der Erde 
+erforschen soll. Besonders wichtig ist das, weil starke solare Winde auf der Erde beispielsweise
 Kurzwellenkommunikation stören können. Die ersten Fotos der 
 Sonde werden im Juli 2020 veröffentlicht werden.\
 Quellen und zusätzliche Informationen: 
@@ -79,16 +79,15 @@ Quellen und zusätzliche Informationen:
 - [Sonnenwind - Wikipedia](https://de.wikipedia.org/wiki/Sonnenwind#Auswirkungen)
 <br/>
 
-Was Deutschland im Januar im Kleinen angefangen hat, wurde von unseren Nachbarn im großen
-Stil wiederholt: In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben 
-werden vollkommen kostenlos. Lediglich die 1. Klasse in Zügen und kommunal betriebene ÖPNV 
-sind noch kostenpflichtig. Das kleine Land westlich neben Deutschland ist damit ein weltweiter 
-Pionier. Dieser Maßgebliche Beitrag zum Klimaschutz kostet den Staat 41 Millionen Euro. 
-Luxemburg sieht sich dahingehend für die anderen europäischen Länder 
-(auch Nachbar- Deutschland) als Vorbild und würde das System gerne nachgeahmt sehen, 
-was in Deutschland wie oben genannt seit Januar zumindest in der Innenstadt von Augsburg der 
-Fall ist. Weil Deutschland so viel größer ist, würde eine vollständige Einführung des Systems 
-allerdings jährliche Kosten von circa 13 Milliarden Euro mit sich ziehen - bisher zu viel für die 
+Was Deutschland im Januar im Kleinen angefangen hat, wird von unseren Nachbarn im großen
+Stil implementiert: In ganz Luxemburg sind ab dem **29.02** alle öffentlichen Verkehrsmittel, die vom Staat betrieben
+werden vollkommen kostenfrei zu benutzen. Lediglich die 1. Klasse in Zügen und kommunal betriebene ÖPNV
+sind noch kostenpflichtig. Dieser Maßgebliche Beitrag zum Klimaschutz ist eine weltweite Neuheit und
+kostet den Staat 41 Millionen Euro.
+Luxemburg sieht sich dahingehend für die anderen europäischen Länder
+(auch Nachbar- Deutschland) als Vorbild und würde das System gerne nachgeahmt sehen.
+Weil Deutschland so viel größer ist, würde eine vollständige Einführung des Systems
+allerdings jährliche Kosten von circa 13 Milliarden Euro mit sich ziehen - bisher zu viel für die
 Regierung, aber das Thema ist hierzulande noch lange nicht vom Tisch.\
 Quellen und zusätzliche Informationen: 
 [Luxemburg: Kostenloser ÖPNV ist erst der Anfang - tagesschau.de](https://www.tagesschau.de/ausland/luxemburg-kostenloser-nahverkehr-101.html)
